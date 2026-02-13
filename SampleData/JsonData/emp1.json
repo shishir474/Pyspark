@@ -1,0 +1,20 @@
+{
+  "employeeId": "E1001",
+  "firstName": "Rahul",
+  "lastName": "Sharma",
+  "age": 28,
+  "department": "Engineering",
+  "role": "Software Engineer",
+  "email": "rahul.sharma@example.com",
+  "phone": "+91-9876543210",
+  "salary": 1200000,
+  "address": {
+    "street": "12 MG Road",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560001"
+  },
+  "skills": ["Python", "Spark", "SQL"],
+  "isFullTime": true,
+  "joiningDate": "2022-06-15"
+}

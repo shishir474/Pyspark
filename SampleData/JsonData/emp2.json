@@ -1,0 +1,20 @@
+{
+  "employeeId": "E1002",
+  "firstName": "Anita",
+  "lastName": "Verma",
+  "age": 32,
+  "department": "Data",
+  "role": "Data Analyst",
+  "email": "anita.verma@example.com",
+  "phone": "+91-9123456780",
+  "salary": 950000,
+  "address": {
+    "street": "45 Park Street",
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "pincode": "700016"
+  },
+  "skills": ["Excel", "Power BI", "SQL"],
+  "isFullTime": true,
+  "joiningDate": "2021-03-10"
+}

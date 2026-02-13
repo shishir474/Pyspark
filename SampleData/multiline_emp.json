@@ -1,0 +1,47 @@
+[
+  {
+    "id": 101,
+    "name": {
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    "hireDate": "21-SEP-2005",
+    "position": "Software Engineer",
+    "salary": 75000,
+    "contactInfo": {
+      "email": "john.doe@example.com",
+      "phone": "555-123-4567"
+    },
+    "skills": ["JavaScript", "Python", "SQL"]
+  },
+  {
+    "id": 102,
+    "name": {
+      "firstName": "Jane",
+      "lastName": "Smith"
+    },
+    "hireDate": "15-JAN-2010",
+    "position": "Project Manager",
+    "salary": 90000,
+    "contactInfo": {
+      "email": "jane.smith@example.com",
+      "phone": "555-987-6543"
+    },
+    "skills": ["Agile", "Scrum", "Leadership"]
+  },
+  {
+    "id": 103,
+    "name": {
+      "firstName": "Peter",
+      "lastName": "Jones"
+    },
+    "hireDate": "01-MAR-2022",
+    "position": "UX Designer",
+    "salary": 65000,
+    "contactInfo": {
+      "email": "peter.jones@example.com",
+      "phone": "555-456-7890"
+    },
+    "skills": ["UI/UX Design", "Figma", "HTML/CSS"]
+  }
+]
